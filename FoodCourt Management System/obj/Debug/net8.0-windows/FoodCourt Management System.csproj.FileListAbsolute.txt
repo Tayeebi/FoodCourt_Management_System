@@ -1,0 +1,59 @@
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\FoodCourt Management System.exe
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\FoodCourt Management System.deps.json
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\FoodCourt Management System.runtimeconfig.json
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\FoodCourt Management System.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\FoodCourt Management System.pdb
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Azure.Core.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Azure.Identity.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\System.ClientModel.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\System.Memory.Data.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt Management System.csproj.AssemblyReference.cache
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt_Management_System.Form1.resources
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt_Management_System.GuestOrder.resources
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt_Management_System.ItemsForm.resources
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt_Management_System.Properties.Resources.resources
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt_Management_System.UserForm.resources
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt_Management_System.UserOrder.resources
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt Management System.csproj.GenerateResource.cache
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt Management System.GeneratedMSBuildEditorConfig.editorconfig
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt Management System.AssemblyInfoInputs.cache
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt Management System.AssemblyInfo.cs
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt Management System.csproj.CoreCompileInputs.cache
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCour.DD8A4420.Up2Date
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt Management System.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\refint\FoodCourt Management System.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt Management System.pdb
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt Management System.genruntimeconfig.cache
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\ref\FoodCourt Management System.dll
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt_Management_System.ViewOrders.resources
+F:\OOP 2\FoodCourt Management System\FoodCourt Management System\obj\Debug\net8.0-windows\FoodCourt_Management_System.SignUp.resources
